@@ -1,0 +1,28 @@
+{
+  "name": "vsc-comboom.sucht-nordic",
+  "displayName": "comboom.sucht - Nordic Theme",
+  "description": "This is a theme in the comboom.sucht color schema in the Nord/Nordic Color pallet.",
+  "publisher": "comboompunktsucht",
+  "icon": "icon.png",
+  "homepage": "https://comboompunktsucht.app",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/comboomPunkTsucht/vsc-comboom.sucht-nordic.git"
+  },
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.97.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "comboom.sucht (Nordic)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/comboom.sucht (Nordic)-color-theme.json"
+      }
+    ]
+  }
+}
