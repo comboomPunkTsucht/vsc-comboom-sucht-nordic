@@ -1,6 +1,7 @@
 {
   "name": "vsc-comboom.sucht-nordic",
   "displayName": "comboom.sucht - Nordic Theme",
+  "license": "MIT",
   "description": "This is a theme in the comboom.sucht color schema in the Nord/Nordic Color pallet.",
   "publisher": "comboompunktsucht",
   "icon": "icon.png",
