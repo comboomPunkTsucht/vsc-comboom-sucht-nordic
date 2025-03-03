@@ -1,5 +1,5 @@
 {
-  "name": "vsc-comboom.sucht-nordic",
+  "name": "vsc-comboom-sucht-nordic",
   "displayName": "comboom.sucht - Nordic Theme",
   "license": "MIT",
   "description": "This is a theme in the comboom.sucht color schema in the Nord/Nordic Color pallet.",
@@ -35,7 +35,7 @@
   "homepage": "https://comboompunktsucht.app",
   "repository": {
     "type": "git",
-    "url": "https://github.com/comboomPunkTsucht/vsc-comboom.sucht-nordic.git"
+    "url": "https://github.com/comboomPunkTsucht/vsc-comboom-sucht-nordic.git"
   },
   "version": "0.0.1",
   "engines": {
